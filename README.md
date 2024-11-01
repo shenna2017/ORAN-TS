@@ -1,4 +1,4 @@
-# HyperTriGNN and TriGNN Models for 5G/LTE RAN Data
+# HyperTriGNN and TriGNN Models for 5G/6G ORAN Data
 
 This project implements hypergraph neural networks, specifically the HyperTriGNN and TriGNN models, to analyze and predict Channel Quality Indicators (CQI) using ORAN data for traffic steering. The models leverage the complex relationships within hypergraphs to enhance prediction accuracy for network traffic steering and resource management.
 
